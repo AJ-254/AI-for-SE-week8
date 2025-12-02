@@ -54,11 +54,11 @@ I built a working automation to show how the agents would function.
 ## 🗂 Folder Structure
 
 AIweek8/
-│── make_simulation/
-| └── demo-screenshots
-│ └── README_make_simulation.md
-|── AI Agents Assignment.pdf
-└── README.md
+└── make_simulation/
+    ├── demo-screenshots
+    └── README_make_simulation.md
+└──  AI Agents Assignment.pdf
+└──  README.md
 
 ---
 
