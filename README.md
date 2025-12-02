@@ -52,6 +52,7 @@ I built a working automation to show how the agents would function.
 ---
 
 ## 🗂 Folder Structure
+
 AIweek8/
 │── make_simulation/
 | └── demo-screenshots
