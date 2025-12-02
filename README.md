@@ -1,7 +1,7 @@
 # AI Week 8 – AI Agents Assignment
 
 This repo contains all my work for the Week 8 assignment on **AI Agents**.  
-The tasks cover theory, case study analysis, and a practical simulation built with Make.com.
+The tasks cover theory, case study analysis, and a practical simulation built with [make.com](https://make.com).
 
 ---
 
@@ -54,7 +54,7 @@ I built a working automation to show how the agents would function.
 ## 🗂 Folder Structure
 AIweek8/
 │── make_simulation/
-| ├── demo-screenshots
+| └── demo-screenshots
 │ └── README_make_simulation.md
 |── AI Agents Assignment.pdf
 └── README.md
@@ -64,7 +64,7 @@ AIweek8/
 ## 🚀 Summary
 
 This assignment shows how AI Agents can upgrade real industry systems through automation, decision support, and human collaboration.  
-The Make.com simulation gives a simple example of how these agents can work together inside a factory.
+The [make.com](https://make.com) simulation gives a simple example of how these agents can work together inside a factory.
 
 ---
 
