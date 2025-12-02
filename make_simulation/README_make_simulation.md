@@ -61,6 +61,7 @@ The flow covers machine data, defect alerts, maintenance checks, and supervisor 
   "defect_detected": true,
   "timestamp": "2025-11-26T11:05:00Z"
 }
+```
 
 ---
 
