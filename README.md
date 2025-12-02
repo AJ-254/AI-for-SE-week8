@@ -51,17 +51,6 @@ I built a working automation to show how the agents would function.
 
 ---
 
-## 🗂 Folder Structure
-
-AIweek8/
-└── make_simulation/
-    ├── demo-screenshots
-    └── README_make_simulation.md
-└──  AI Agents Assignment.pdf
-└──  README.md
-
----
-
 ## 🚀 Summary
 
 This assignment shows how AI Agents can upgrade real industry systems through automation, decision support, and human collaboration.  
